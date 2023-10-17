@@ -1,5 +1,4 @@
-ADD file ... in / 44.63 MB
-
+FROM redis:lts
 /bin/sh -c set -xe && 815 B
  
 /bin/sh -c rm -rf /var/lib/apt/lists/*
